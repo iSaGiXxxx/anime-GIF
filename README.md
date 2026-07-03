@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1B3F,50:1E5FFF,100:00C9FF&height=200&section=header&text=ISAGI-GIF&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Awesome%20List%20of%20GIFs%20for%20GitHub%20%F0%9F%94%92⚽&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1B3F,50:1E5FFF,100:00C9FF&height=200&section=header&text=ANIME-GIF&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Awesome%20List%20of%20GIFs%20for%20GitHub%20%F0%9F%94%92⚽&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://img.shields.io/github/stars/iSaGiXxxx/isagi-GIF?style=for-the-badge&color=2E7CFF&labelColor=0B1B3F"/>
 <img src="https://img.shields.io/badge/PRs-welcome-2E7CFF?style=for-the-badge&labelColor=0B1B3F"/>
